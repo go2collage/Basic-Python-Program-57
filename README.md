@@ -1,6 +1,6 @@
 # Basic-Python-Program-57
 
-## Question 57: Write a program to display Hello World.
+## Question 57: Write a Python program to create user defined exception that will check whether the password is correct or not.
 
 ### Video Link: (https://www.youtube.com/watch?v=k_F-vRJTl9Y)
 
